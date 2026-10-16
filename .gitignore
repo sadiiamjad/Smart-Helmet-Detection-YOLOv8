@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.cache
+*.zip
+*.log
+.venv/
+venv/
+datasets/
+helmet_dataset/
+runs/
+helmet_runs/
+wandb/

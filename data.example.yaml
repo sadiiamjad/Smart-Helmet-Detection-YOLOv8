@@ -1,0 +1,10 @@
+# Replace /absolute/path/to/helmet_dataset with your local dataset directory.
+path: /absolute/path/to/helmet_dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 3
+names:
+  - With Helmet
+  - Without Helmet
+  - licence
